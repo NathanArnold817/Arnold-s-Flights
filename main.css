@@ -1,0 +1,26 @@
+h1{text-align:center;
+    color:rgb(145, 4, 4);
+    border: 20px groove turquoise;}
+
+#p1{background-color:skyblue;
+font-family:fantasy, times, serif;}
+
+body{background-image:url("../Pics/sky.png");}
+
+.plane{opacity: 0.2;}
+
+.p2{
+    color: rgb(255, 115, 0);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin:20px;
+    padding: 15 45 60 15;
+}
+
+
+
+
+
+
+
+
